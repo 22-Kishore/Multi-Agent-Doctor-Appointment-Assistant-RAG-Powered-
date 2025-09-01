@@ -17,7 +17,7 @@ Scalable Design – Modular architecture with reusable agent components.
 
 Programming Language: Python
 
-Frameworks/Libraries: LangChain, Streamlit, FAISS/Chroma (vector database for RAG)
+Frameworks/Libraries: LangChain, Streamlit
 
 LLMs: OpenAI / HuggingFace models (configurable)
 
